@@ -580,7 +580,7 @@ a.nav__link:hover {
   .banner__img {
     width: 100%;
     object-fit: cover;
-    object-position: bottom;
+    object-position: bottom !important;
   }
 
   .card__img {
